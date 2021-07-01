@@ -8,5 +8,3 @@ test git
 test git again
 
 test git again and again
-
-我蒙了
